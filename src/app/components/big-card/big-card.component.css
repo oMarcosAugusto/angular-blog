@@ -20,5 +20,5 @@
 
 .big-card_photo > img {
     max-width: 100%;
-    min-width: 400px;
+    /* min-width: 400px; */
 }
